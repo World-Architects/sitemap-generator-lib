@@ -1,0 +1,15 @@
+{
+    "name": "psa/sitemap-generator-lib",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Florian Krämer"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.1",
+        "squizlabs/php_codesniffer": "*"
+    }
+}
